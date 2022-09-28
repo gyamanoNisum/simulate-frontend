@@ -21,4 +21,4 @@ Steve Cheung|FULL STACK
 Jiayue Zhang|QE
 Thanh Quan Nguyen|QE
 Zeeshan Mohamedy|QE
-Garett Yamano|DEVOPS
+Garrett Yamano|DEVOPS
